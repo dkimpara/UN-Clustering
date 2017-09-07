@@ -20,8 +20,7 @@ was "Qatar"). We included "Qatar" to aid in qualitative cross-validation by doma
 
 We chose to scale the data to [0, 1] and left alone the distribution (mean, variance) since we could not assume we had a representative 
 sample. We were able to obtain only 61 data points for (1) and 34 data points for (2) since there was missing data in WDI. Total country 
-count is ~200. In (1), the square root of GDP data was taken to not allow the high-income countries to emphasize the difference of the 
-gulf states.
+count is ~200. In (1), the square root of GDP data was taken to emphasize the difference of the gulf states from other regions.
 Scaling to [0,1] gave equal influence to both indicators for the clustering algorithm.
 
 
