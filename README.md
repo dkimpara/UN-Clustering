@@ -25,7 +25,7 @@ Scaling to [0,1] gave equal influence to both indicators for the clustering algo
 
 Cluster Evaluations:
 --------
-(1) The gulf states (with Israel, and Brunei), colored green, with high fatality rates for their GDP class (middle-high income) were successfully clustered together. Low-income, high fatality rate (red) and high-income, low fatality rate (blue) countries were also successfully clustered. The countries that appeared in each of the aforementioned groups match the expectations based on their socioeconomic situations.
+(1) The gulf states (with Israel and Brunei), colored green, with high fatality rates for their GDP class (middle-high income) were successfully clustered together. Low-income, high fatality rate (red) and high-income, low fatality rate (blue) countries were also successfully clustered. The countries that appeared in each of the aforementioned groups match the expectations based on their socioeconomic situations.
 
 Not so successful was the black cluster that included a wide range of countries from first world highly developed countries (Japan, R. of Korea, and Spain) to emerging economies (China, India). Additionally, Qatar with its abnormally high fatality rate compared to its high income was considered an outlier. Other transformations of the data may yield better results.
 
